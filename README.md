@@ -1,4 +1,10 @@
-# Hi there 👋
+# ❄️Samuel Song
+
+**`Digital Craftsman (Developer/Designer)`**
+
+Hi! I'm a full-stack web developer that likes to create creative designs and exceptional digital experiences.
+All of the projects are carefully built from square one, from planning, designing and implementing real-life solutions with code.
+Currently, I am focused on expanding my tech stack.
 
 <!--
 **samueljsong/samueljsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
