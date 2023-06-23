@@ -6,6 +6,11 @@ Hi! I'm a full-stack web developer that likes to create creative designs and exc
 All of the projects are carefully built from square one, from planning, designing and implementing real-life solutions with code.
 Currently, I am focused on expanding my tech stack.
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-song-490743234/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="http://www.w3.org/2000/svg"/></a>
+</p>
+
 <!--
 **samueljsong/samueljsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
