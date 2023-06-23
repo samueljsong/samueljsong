@@ -8,7 +8,7 @@ Currently, I am focused on expanding my tech stack.
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-song-490743234/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-512.png"/></a>
+  <a href="https://www.linkedin.com/in/samuel-song-490743234/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-1/24/_linked_in-512.png"/></a>
 </p>
 
 
