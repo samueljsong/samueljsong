@@ -1,10 +1,12 @@
 # ❄️Samuel Song
 
-**`Digital Craftsman (Developer/Designer)`**
+**`Software Developer`**
 
-Hi! I'm a full-stack web developer that likes to create creative designs and exceptional digital experiences.
-All of the projects are carefully built from square one, from planning, designing and implementing real-life solutions with code.
-Currently, I am focused on expanding my tech stack.
+As a Web and Software Developer, I craft immersive web and mobile applications. I enjoy creating solutions to unique use cases while using carefully thought out interfaces/animations to enrich user experiences. 
+
+🎓Computer Systems Technology (CST) Diploma - Database at BCIT (Graduate)
+🎓BSc in Applied Computer Science - Network Security Applications (Graduating Dec '25)
+🌟Passion for continuous learning and web development.
 
 <!-- Social icons section -->
 <p align="center">
