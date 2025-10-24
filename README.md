@@ -5,7 +5,7 @@
 As a Web and Software Developer, I craft immersive web and mobile applications. I enjoy creating solutions to unique use cases while using carefully thought out interfaces/animations to enrich user experiences. 
 
 * 🎓Computer Systems Technology (CST) Diploma - Database at BCIT (Graduate)
-* 🎓BSc in Applied Computer Science - Network Security Applications (Graduating Dec '25)
+* 🎓BSc in Applied Computer Science - Network Security Applications (Graduating Dec '26)
 * 🌟Passion for continuous learning and web development.
 
 <!-- Social icons section -->
